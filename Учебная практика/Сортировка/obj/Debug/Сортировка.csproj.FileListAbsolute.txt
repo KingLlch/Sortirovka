@@ -1,0 +1,10 @@
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\bin\Debug\Сортировка.exe.config
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\bin\Debug\Сортировка.exe
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\bin\Debug\Сортировка.pdb
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.csproj.AssemblyReference.cache
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.Form1.resources
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.Properties.Resources.resources
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.csproj.GenerateResource.cache
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.csproj.CoreCompileInputs.cache
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.exe
+C:\Users\Lich\Desktop\Учебная практика\Сортировка\obj\Debug\Сортировка.pdb
